@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on any exciting projects! Feel free to reach out!
 
-- 💬 Ask me about dependency arrays...
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gray-nance/) | [AngelList](https://angel.co/u/gray-nance) | [Email](mailto:graynance@gmail.com?subject=[GitHub]:)
 
 - ⚡ Fun fact: I was a baker at the café that won 'Best Baguette SF' in 2017 and 'Best Croissant SF' in 2018.
