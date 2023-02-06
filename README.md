@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently adding features to Rungs and NoCleaningFees, two of my full stack applications.
 
-- 🌱 I’m currently diving headlong into WebSockets.
+- 🌱 I’m actively working on sharpening my DS&A skills.
 
 - 👯 I’m looking to collaborate on any exciting projects! Feel free to reach out!
 
